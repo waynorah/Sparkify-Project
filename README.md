@@ -1,5 +1,7 @@
 # Sparkify-Project
 
+Technical Post https://blog.csdn.net/waynorah/article/details/90717383
+
 The original size of the dataset is 12GB which is too large for my preliminary analysis, I used the small dataset (128MB) to perform data exploration process.
 
 After doing EDA, I created the below features for later modeling part.
